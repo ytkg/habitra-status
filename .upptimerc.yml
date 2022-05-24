@@ -3,7 +3,9 @@ owner: ytkg
 repo: habitra-status
 
 sites:
-  - name: HabiTra root
+  - name: HabiTra Backend
+    url: https://api.habitra.io/
+  - name: HabiTra Frontend
     url: https://habitra.io/
 
 status-website:
