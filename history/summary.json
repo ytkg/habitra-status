@@ -4,19 +4,19 @@
     "url": "https://api.habitra.io/",
     "icon": "https://favicons.githubusercontent.com/api.habitra.io",
     "slug": "habi-tra-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 89,
-    "timeWeek": 189,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 250,
+    "timeDay": 90,
+    "timeWeek": 178,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 34
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://habitra.io/",
     "icon": "https://favicons.githubusercontent.com/habitra.io",
     "slug": "habi-tra-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 67,
-    "timeWeek": 134,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 164,
+    "timeDay": 70,
+    "timeWeek": 128,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-06-17": 0
+      "2022-06-17": 34
     }
   }
 ]
