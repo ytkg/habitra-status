@@ -1,7 +1,7 @@
 url: https://api.habitra.io/
-status: down
-code: 500
-responseTime: 146
-lastUpdated: 2022-06-21T06:34:20.601Z
+status: up
+code: 200
+responseTime: 5523
+lastUpdated: 2022-06-21T07:15:42.379Z
 startTime: Tue May 24 2022 14:27:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
